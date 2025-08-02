@@ -21,7 +21,7 @@ Questo è un bot Discord per la gestione dello staff tramite comandi slash (`/`)
 ## Installazione
 1. Clona la repository:
    ```sh
-   git clone https://github.com/tuo-utente/tuo-repo.git
+   git clone https://github.com/Ghost001-byte/Bot-.git
    cd tuo-repo
    ```
 2. Installa le dipendenze:
@@ -53,3 +53,4 @@ python "Bot ds.py"
 ## Versione
 -Staffbot v:1.0
 -Made by Ghost
+
