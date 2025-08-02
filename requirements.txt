@@ -1,0 +1,17 @@
+discord.py>=2.3.2
+
+#If you run it on a pc:
+#1 core cpu
+#4gb ram
+#1gb disk space 
+
+#If you run it on a vps:
+#1 core cpu 
+#2gb ram
+#1gb disk space
+
+#If you run it on a vps with 2gb ram:
+#1 core cpu
+#2gb ram
+#2gb disk space
+
